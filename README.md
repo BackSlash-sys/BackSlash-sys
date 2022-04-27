@@ -1,9 +1,9 @@
 ## BackSlash 🥰
-### Full-Stack Developer, Cheat-Maker
+### Full-Stack Developer
 
 ---
 
-- 💘 Языки программирования: `JavaScript, C++`
+- 💘 Языки программирования: `JavaScript, C++, TS`
 - 🚀 Фреймворки: `Express, Vue, Nuxt, React`
 
 ## Моя статистика на GitHub'e
